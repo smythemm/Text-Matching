@@ -1,28 +1,29 @@
 Tag Value,Tag Master Value,Tag Master Name
-ABSACF,ABSACF,Client
-ABSACLOUD313,ABSACLOUD313,Client
-ABSACLOUDQA,ABSACLOUDQA,Client
-ABSARBB,ABSARBB,Client
 ARM,ARM,Client
 ABSA,Absa,Client
+ABSACF,Absa,Client
+ABSACLOUD313,Absa,Client
+ABSACLOUDQA,Absa,Client
+ABSARBB,Absa,Client
 Absa,Absa,Client
 Alexander Forbes,Alexander Forbes,Client
 Blue Label Telecoms,Blue Label Telecoms,Client
 CCBA,CCBA,Client
+CCBACloud,CCBA,Client
 ccba,CCBA,Client
-CCBACloud,CCBACloud,Client
 Carlisle,Carlisle,Client
 Discovery,Discovery,Client
 Edcon,Edcon,Client
 Ellix,Ellix,Client
 Exxaro,Exxaro,Client
-HC,HC,Client
+HC,HCC,Client
 HCC,HCC,Client
 Internal,Internal,Client
-Internal - Cloud,Internal - Cloud,Client
-Internal - Multi-Dim,Internal - Multi-Dim,Client
+Internal - Cloud,Internal,Client
+Internal - Multi-Dim,Internal,Client
+Internal - Scenarios,Internal,Client
 Internal - Pentest,Internal - Pentest,Client
-Internal - Scenarios,Internal - Scenarios,Client
+Pentest,Internal - Pentest,Client
 Investec,Investec,Client
 KMOD,KMOD,Client
 Liberty,Liberty,Client
@@ -34,18 +35,19 @@ oecd,OECD,Client
 OLD MUTUAL,Old Mutual,Client
 Old Mutual,Old Mutual,Client
 OldMutual,Old Mutual,Client
-Pentest,Pentest,Client
+QA multidim hybrid,QAmultidim,Client
 QAmultidim,QAmultidim,Client
+qa multidim hybrid,QAmultidim,Client
 qamultidim,QAmultidim,Client
 RMB,RMB,Client
 SANDBOX,SANDBOX,Client
 SPAR,SPAR,Client
+SPARCLOUD,SPAR,Client
 Spar,SPAR,Client
-SPARCLOUD,SPARCLOUD,Client
-sparcloud,SPARCLOUD,Client
+sparcloud,SPAR,Client
 Sanlam,Sanlam,Client
 Shared,Shared,Client
-Shared Services,Shared Services,Client
+Shared Services,Shared,Client
 STANLIB,Stanlib,Client
 Stanlib,Stanlib,Client
 stanlib,Stanlib,Client
@@ -58,8 +60,6 @@ qa bnf,qa bnf,Client
 qabnf,qa bnf,Client
 qa cloud,qa cloud,Client
 qacloud,qa cloud,Client
-QA multidim hybrid,qa multidim hybrid,Client
-qa multidim hybrid,qa multidim hybrid,Client
 QA313,qa313,Client
 qa313,qa313,Client
 QA314,qa314,Client
